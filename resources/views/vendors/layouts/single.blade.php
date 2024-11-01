@@ -1,0 +1,1 @@
+@extends('vendors.layouts.master')
